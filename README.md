@@ -1,13 +1,13 @@
 # HACKINTOSH
 
 ## System Details
-CPU - Intel i7-Dual Core (4510U)
-CPU Gneration: 4th Generation
-CPU Ceneration Code Name - Haswell
-Intel Integrated GPU - Intel HD 4400
-Intel LPC Controller(Premium SKU) - 9C43
-Ethernet - Realtek RTL8101E
-Wifi and Bluetooth - Atheros QCA9565/AR9565
-Audio Codec - ALC3234
-SSE Version - SSE 4.2
-CPU Architecture - 64bit
+<b>CPU</b> - Intel i7-Dual Core (4510U)  
+<b>CPU Gneration</b>  4th Generation  
+<b>CPU Ceneration Code Name</b> - Haswell  
+<b>Intel Integrated GPU</b> - Intel HD 4400  
+<b>Intel LPC Controller(Premium SKU)</b> - 9C43  
+<b>Ethernet</b> - Realtek RTL8101E  
+<b>Wifi and Bluetooth</b> - Atheros QCA9565/AR9565  
+<b>Audio Codec</b> - ALC3234  
+<b>SSE Version</b> - SSE 4.2  
+<b>CPU Architecture</b> - 64bit  
