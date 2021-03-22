@@ -1,6 +1,7 @@
 # HACKINTOSH
 
-## System Details
+## System Details   
+<b>Laptop Model</b> - Dell Inspiron 15 3542  
 <b>CPU</b> - Intel i7-Dual Core (4510U)  
 <b>CPU Gneration</b>  4th Generation  
 <b>CPU Ceneration Code Name</b> - Haswell  
